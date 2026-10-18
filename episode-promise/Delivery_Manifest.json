@@ -1,0 +1,22 @@
+{
+  "I_Kept_a_Promise_Final.mp4": {
+    "bytes": 60329358,
+    "sha256": "47d76a9e74f342b5528e6a93049aaaa675391ab4f0e20c70a1441e94f57375c0"
+  },
+  "Promise_Preview.mp4": {
+    "bytes": 1768956,
+    "sha256": "1224c1c43abfc91e10bb6271a9e5cf7982b20b0d48386964bcad7b3ffe7400d7"
+  },
+  "Promise_Cover.jpg": {
+    "bytes": 93279,
+    "sha256": "42714676585157f87c7874758579f921f150fb16d9f05fc675b5e78c5aac3874"
+  },
+  "Editable_Project.zip": {
+    "bytes": 178357837,
+    "sha256": "7dc32d925bf3e6e41f9e6c39aaa7b8e4f01d215b8e8f71d651e73916ee1c2311"
+  },
+  "Episode_Notes_and_Cover.zip": {
+    "bytes": 542122,
+    "sha256": "f2d2577c98ba2a966afffd9990debc6802801fb4a210ef530e5ed5ed7e7c35be"
+  }
+}
