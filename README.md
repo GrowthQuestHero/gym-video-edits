@@ -1,5 +1,25 @@
 # Gym Video Edits
 
+## 58-second upper-body Short
+
+Separate vertical edit: **1080×1920, 30 fps, 1,740 frames / exactly 58 seconds**. The finished long videos and existing covers are unchanged.
+
+- [Download the final Short](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Upper_Body_Short_58s.mp4)
+- [Download the editable Remotion project](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Short_Editable.zip)
+- [Download the real-frame cover JPG](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Short_Cover.jpg)
+- [Download the preview](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Short_Preview.mp4)
+- [Download the composition TSX](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/PromiseUpperBodyShort.tsx)
+- [Download the Remotion entry](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/promise-short-index.ts)
+- [Download the editable configuration](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/promise-short-edit.json)
+- [Download the cut map JSON](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Short_Cut_Map.json)
+- [Download the cut map notes](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Promise_Short_Cut_Map.md)
+- [Download Shorts titles, description, hashtags and tags](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Shorts_Packaging.md)
+- [Download the verification report](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/QC_Report.md)
+- [Download editing and source-restoration instructions](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/EDITABLE_README.md)
+- [Download file hashes and sizes](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-short-58s/Delivery_Manifest.json)
+
+The source is 720p; wide shots use proportional insets to preserve movement. The editable ZIP includes music and real-frame backgrounds; restore your original recording at the documented path before editing.
+
 ## Updated episode — reference intro and outro
 
 **[Download the updated MP4](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-reference-v2/I_Kept_a_Promise_Reference_V2.mp4)**
@@ -40,4 +60,4 @@ The final is 1280×720, 30 fps, 5,400 frames, 3:00. Full decode and sampled visu
 
 Downloads from a private repository require signing into a GitHub account with access. Open the MP4 file page and choose **Download raw file** if the direct link does not download automatically.
 
-The larger editable project remains in the cloud workspace pending a suitable transfer route. It is not included in this repository upload because its 178 MB archive exceeds GitHub's single-file limit.
+The original three-minute episode’s larger editable project remains in the cloud workspace pending a suitable transfer route. It is not included in this repository upload because its 178 MB archive exceeds GitHub's single-file limit.
