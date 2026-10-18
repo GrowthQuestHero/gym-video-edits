@@ -1,0 +1,297 @@
+{
+  "episode": "promise-reference-replacement",
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "totalFrames": 5586,
+  "oldTotalFrames": 5400,
+  "originalFinalSha256": "47d76a9e74f342b5528e6a93049aaaa675391ab4f0e20c70a1441e94f57375c0",
+  "intro": {
+    "file": "media/promise-reference/Reference_Intro_Final.mp4",
+    "frames": 186,
+    "sha256": "aae5be530adf303d767300d1a8c8e689e6a5d27bffb303b4b6062af1a7e5a827",
+    "embeddedAudio": true,
+    "playbackRate": 1,
+    "fit": "contain"
+  },
+  "outro": {
+    "file": "media/promise-reference/Reference_Outro_Final.mp4",
+    "frames": 210,
+    "sha256": "327cd1a16120e4d8b249a4183fc57fd349ff2bb7837db2e43a1739842a7c8739",
+    "embeddedAudio": true,
+    "playbackRate": 1,
+    "fit": "contain"
+  },
+  "cuts": [
+    {
+      "id": "01",
+      "name": "Opening effort",
+      "sourceStartFrame": 14700,
+      "durationFrames": 180,
+      "timelineStartFrame": 0,
+      "section": "fly",
+      "caption": "MACHINE FLY",
+      "layout": "wide",
+      "role": "hook",
+      "chapter": "05 / FLY"
+    },
+    {
+      "id": "02",
+      "name": "Uploaded reference intro",
+      "sourceStartFrame": null,
+      "durationFrames": 186,
+      "timelineStartFrame": 180,
+      "section": "brand",
+      "caption": "",
+      "layout": "card",
+      "role": "intro",
+      "chapter": "",
+      "asset": "media/promise-reference/Reference_Intro_Final.mp4"
+    },
+    {
+      "id": "03",
+      "name": "Barbell press \u2014 first passage",
+      "sourceStartFrame": 1020,
+      "durationFrames": 330,
+      "timelineStartFrame": 366,
+      "section": "bench",
+      "caption": "BARBELL BENCH PRESS",
+      "layout": "wide",
+      "role": "",
+      "chapter": "01 / PRESS"
+    },
+    {
+      "id": "04",
+      "name": "Barbell press \u2014 second passage",
+      "sourceStartFrame": 2730,
+      "durationFrames": 330,
+      "timelineStartFrame": 696,
+      "section": "bench",
+      "caption": "",
+      "layout": "wide",
+      "role": "",
+      "chapter": "01 / PRESS"
+    },
+    {
+      "id": "05",
+      "name": "Barbell press \u2014 final passage",
+      "sourceStartFrame": 3840,
+      "durationFrames": 330,
+      "timelineStartFrame": 1026,
+      "section": "bench",
+      "caption": "",
+      "layout": "wide",
+      "role": "",
+      "chapter": "01 / PRESS"
+    },
+    {
+      "id": "06",
+      "name": "Incline dumbbell press \u2014 first passage",
+      "sourceStartFrame": 5490,
+      "durationFrames": 330,
+      "timelineStartFrame": 1356,
+      "section": "incline",
+      "caption": "INCLINE DUMBBELL PRESS",
+      "layout": "square",
+      "role": "",
+      "chapter": "02 / INCLINE"
+    },
+    {
+      "id": "07",
+      "name": "Incline dumbbell press \u2014 second passage",
+      "sourceStartFrame": 7080,
+      "durationFrames": 330,
+      "timelineStartFrame": 1686,
+      "section": "incline",
+      "caption": "",
+      "layout": "square",
+      "role": "",
+      "chapter": "02 / INCLINE"
+    },
+    {
+      "id": "08",
+      "name": "Incline dumbbell press \u2014 final passage",
+      "sourceStartFrame": 9000,
+      "durationFrames": 330,
+      "timelineStartFrame": 2016,
+      "section": "incline",
+      "caption": "",
+      "layout": "square",
+      "role": "",
+      "chapter": "02 / INCLINE"
+    },
+    {
+      "id": "09",
+      "name": "Flat dumbbell press",
+      "sourceStartFrame": 10470,
+      "durationFrames": 360,
+      "timelineStartFrame": 2346,
+      "section": "flat",
+      "caption": "DUMBBELL PRESS",
+      "layout": "square",
+      "role": "",
+      "chapter": "03 / DUMBBELLS"
+    },
+    {
+      "id": "10",
+      "name": "Seated shoulder press \u2014 first angle",
+      "sourceStartFrame": 11400,
+      "durationFrames": 300,
+      "timelineStartFrame": 2706,
+      "section": "shoulder",
+      "caption": "SEATED SHOULDER PRESS",
+      "layout": "square",
+      "role": "",
+      "chapter": "04 / SHOULDERS"
+    },
+    {
+      "id": "11",
+      "name": "Seated shoulder press \u2014 second angle",
+      "sourceStartFrame": 12750,
+      "durationFrames": 300,
+      "timelineStartFrame": 3006,
+      "section": "shoulder",
+      "caption": "",
+      "layout": "square",
+      "role": "",
+      "chapter": "04 / SHOULDERS"
+    },
+    {
+      "id": "12",
+      "name": "Machine fly \u2014 first passage",
+      "sourceStartFrame": 13980,
+      "durationFrames": 360,
+      "timelineStartFrame": 3306,
+      "section": "fly",
+      "caption": "MACHINE FLY",
+      "layout": "wide",
+      "role": "",
+      "chapter": "05 / FLY"
+    },
+    {
+      "id": "13",
+      "name": "Machine fly \u2014 second passage",
+      "sourceStartFrame": 15180,
+      "durationFrames": 360,
+      "timelineStartFrame": 3666,
+      "section": "fly",
+      "caption": "",
+      "layout": "wide",
+      "role": "",
+      "chapter": "05 / FLY"
+    },
+    {
+      "id": "14",
+      "name": "Machine fly \u2014 final passage",
+      "sourceStartFrame": 16440,
+      "durationFrames": 360,
+      "timelineStartFrame": 4026,
+      "section": "fly",
+      "caption": "",
+      "layout": "wide",
+      "role": "",
+      "chapter": "05 / FLY"
+    },
+    {
+      "id": "15",
+      "name": "Cable pressdown \u2014 first passage",
+      "sourceStartFrame": 17880,
+      "durationFrames": 330,
+      "timelineStartFrame": 4386,
+      "section": "cable",
+      "caption": "CABLE PRESSDOWN",
+      "layout": "wide",
+      "role": "",
+      "chapter": "06 / CABLES"
+    },
+    {
+      "id": "16",
+      "name": "Cable pressdown \u2014 second passage",
+      "sourceStartFrame": 19320,
+      "durationFrames": 330,
+      "timelineStartFrame": 4716,
+      "section": "cable",
+      "caption": "",
+      "layout": "wide",
+      "role": "",
+      "chapter": "06 / CABLES"
+    },
+    {
+      "id": "17",
+      "name": "Cable pressdown \u2014 closing angle",
+      "sourceStartFrame": 20310,
+      "durationFrames": 330,
+      "timelineStartFrame": 5046,
+      "section": "cable",
+      "caption": "",
+      "layout": "wide",
+      "role": "closing",
+      "chapter": "06 / CABLES"
+    },
+    {
+      "id": "18",
+      "name": "Uploaded reference outro",
+      "sourceStartFrame": null,
+      "durationFrames": 210,
+      "timelineStartFrame": 5376,
+      "section": "brand",
+      "caption": "",
+      "layout": "card",
+      "role": "outro",
+      "chapter": "",
+      "asset": "media/promise-reference/Reference_Outro_Final.mp4"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "original",
+      "name": "Unchanged opening hook",
+      "fromFrame": 0,
+      "frames": 180,
+      "originalStart": 0
+    },
+    {
+      "kind": "reference",
+      "name": "Reference intro",
+      "fromFrame": 180,
+      "frames": 186,
+      "asset": "media/promise-reference/Reference_Intro_Final.mp4"
+    },
+    {
+      "kind": "original",
+      "name": "Unchanged workout body",
+      "fromFrame": 366,
+      "frames": 5010,
+      "originalStart": 240
+    },
+    {
+      "kind": "reference",
+      "name": "Reference outro",
+      "fromFrame": 5376,
+      "frames": 210,
+      "asset": "media/promise-reference/Reference_Outro_Final.mp4"
+    }
+  ],
+  "bedRanges": [
+    {
+      "start": 0,
+      "end": 180
+    },
+    {
+      "start": 366,
+      "end": 5376
+    }
+  ],
+  "previewWindows": [
+    {
+      "from": 120,
+      "frames": 306
+    },
+    {
+      "from": 5316,
+      "frames": 270
+    }
+  ],
+  "bedBoundaryFadeFrames": 3,
+  "notes": "Native asset durations; normal speed; no crop or stretch; existing music completely absent during reference sequences; 100 ms click-prevention fades on bed only."
+}

@@ -1,0 +1,48 @@
+{
+  "status": "verified: full decode, frame-by-frame workout comparison, embedded audio isolation, preservation, and sampled final picture review passed",
+  "frames": 5586,
+  "duration_seconds": 186.2,
+  "width": 1280,
+  "height": 720,
+  "fps": "30/1",
+  "pixel_format": "yuvj420p",
+  "color_range": "pc",
+  "color_space": "bt470bg",
+  "audio_integrated_lufs": -18.02,
+  "audio_true_peak_db": -2.94,
+  "audio": {
+    "mode": "final",
+    "file": "I_Kept_a_Promise_Reference_V2.mp4",
+    "asset_audio_checks": [
+      {
+        "asset": "intro",
+        "offset_seconds": 6,
+        "correlation": 0.9999268059785732,
+        "fitted_gain": 0.9982352542804359,
+        "residual_snr_db": 38.34442215782941,
+        "conclusion": "Matches supplied embedded audio; no extra bed detectable above AAC residual"
+      },
+      {
+        "asset": "outro",
+        "offset_seconds": 179.2,
+        "correlation": 0.9999606767222818,
+        "fitted_gain": 0.9992611924593768,
+        "residual_snr_db": 41.04292729875059,
+        "conclusion": "Matches supplied embedded audio; no extra bed detectable above AAC residual"
+      }
+    ],
+    "decoded_sample_peak_dbfs": -2.9509010314941406,
+    "clipped_samples": 0
+  },
+  "workout_comparison": {
+    "frames_compared": 5190,
+    "mean_ssim": 0.9998077971098266,
+    "minimum_ssim": 0.994314,
+    "conclusion": "All original hook and workout frames retained at corresponding positions; only lossy re-encoding differences"
+  },
+  "original_mp4_preserved": true,
+  "old_composition_preserved": true,
+  "existing_cover_and_thumbnails_preserved": true,
+  "final_sha256": "2ca3e580a3498448116280f80aa294a3bd2e138cb2518dbc6b1f8a49df20eca1",
+  "bytes": 61868100
+}

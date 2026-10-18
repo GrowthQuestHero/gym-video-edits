@@ -1,5 +1,16 @@
 # Gym Video Edits
 
+## Updated episode — reference intro and outro
+
+**[Download the updated MP4](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-reference-v2/I_Kept_a_Promise_Reference_V2.mp4)**
+
+- [Download the opening/ending preview](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-reference-v2/Promise_Reference_Opening_Ending_Preview.mp4)
+- [Download the editable Remotion project](https://github.com/GrowthQuestHero/gym-video-edits/raw/refs/heads/main/episode-promise-reference-v2/Editable_Reference_Update.zip) — includes replacement videos and music; restore your original source video as described in [RESTORE_SOURCE.md](episode-promise-reference-v2/RESTORE_SOURCE.md).
+- [Replacement timing and editing notes](episode-promise-reference-v2/REVISION_README.md)
+- [Verification report](episode-promise-reference-v2/QC_Report.md)
+
+Only the generated intro/outro cards were replaced. The full supplied intro is 6.2 seconds, the outro is 7 seconds, and the updated episode is **3:06.2 at 1280×720, 30 fps**. All workout excerpts, hook, captions and grade are retained. The old music bed is absent during the two assets; their embedded audio is retained. The original final, cover, and three thumbnails below are unchanged.
+
 ## I Kept a Promise to Myself Today
 
 A three-minute upper-body training edit for 1% Better with Bibek.
