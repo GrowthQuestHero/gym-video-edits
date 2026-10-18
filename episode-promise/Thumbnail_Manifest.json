@@ -1,0 +1,40 @@
+{
+  "source": "I_Kept_a_Promise_Final.mp4",
+  "method": "Real encoded frames of the completed episode; no invented imagery or added claims",
+  "images": [
+    {
+      "file": "Thumbnail_01.jpg",
+      "width": 1280,
+      "height": 720,
+      "format": "JPEG",
+      "episode_frame": 375,
+      "episode_time_seconds": 12.5,
+      "workout": "Barbell bench press",
+      "bytes": 119066,
+      "sha256": "60754df2852500e3b120a754b8d5036a145744fa6753a9dec82080eede194961"
+    },
+    {
+      "file": "Thumbnail_02.jpg",
+      "width": 1280,
+      "height": 720,
+      "format": "JPEG",
+      "episode_frame": 1380,
+      "episode_time_seconds": 46.0,
+      "workout": "Incline dumbbell press",
+      "bytes": 60740,
+      "sha256": "0677537d6780f5ff27ae9c63cd91c27ec2ba2c661ebbb43e4d70779626c878c0"
+    },
+    {
+      "file": "Thumbnail_03.jpg",
+      "width": 1280,
+      "height": 720,
+      "format": "JPEG",
+      "episode_frame": 3600,
+      "episode_time_seconds": 120.0,
+      "workout": "Machine fly",
+      "bytes": 124006,
+      "sha256": "f816bd8ff2854f4b5b9c073bbcb5a1c4619e3ae8fcb6d5e2a53fa06248e8ea00"
+    }
+  ],
+  "original_video_and_cover": "unchanged"
+}
