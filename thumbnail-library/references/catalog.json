@@ -1,0 +1,146 @@
+{
+  "review_date": "2026-10-19",
+  "status": "pending_user_review",
+  "artwork_policy": "source_links_only_no_reuse_rights_assumed",
+  "performance_evidence": "not_assessed",
+  "references": [
+    {
+      "id": "A1",
+      "direction": "A",
+      "file": "A1-the-futur-selling-without-being-salesy.md",
+      "title": "Selling Without Being Salesy",
+      "creator": "The Futur; design credited in indexed portfolio to Breno Monteiro / Tasca Studios",
+      "url": "https://www.behance.net/gallery/202638651/Thumbnail-Design-TheFutur",
+      "preview": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/c5979e202638651.668958635d758.png",
+      "format": "Designer portfolio showing a video-thumbnail design",
+      "lesson": "Two portrait anchors flank a compact white/yellow phrase on a dark ground. Study the separation of a human focal point and one readable phrase, not the two-person formula.",
+      "application": "Use one authentic Bibek portrait and one buyer question; the title names LotusMala and the blueprint.",
+      "avoid": "Do not add a second person, copy the composition literally, use their faces, or imply this episode teaches sales closing.",
+      "review": "Indexed image preview and direct image opened; portfolio page returned 403. Designer credit is indexed attribution, not independently confirmed from the full project page.",
+      "tags": [
+        "marketing-business",
+        "portrait-question",
+        "high-contrast"
+      ]
+    },
+    {
+      "id": "A2",
+      "direction": "A",
+      "file": "A2-neil-patel-marketing-strategy.md",
+      "title": "Building a Marketing Strategy in 10 Minutes?",
+      "creator": "Neil Patel",
+      "url": "https://www.linkedin.com/posts/neilkpatel_marketing-digitalmarketing-onlinemarketing-activity-6853328367329013760-ezE4",
+      "preview": "https://media.licdn.com/dms/image/v2/C4D05AQEBcsjzsiBtIA/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1633960723153?e=2147483647&t=9GkHXi_c1-Mxd83pBk7jXVYsXDlejEv00eKULnV-p6U&v=beta",
+      "format": "Creator-published marketing-video cover on LinkedIn",
+      "lesson": "A presenter, a strongly contrasting background and one explicit marketing question make the subject identifiable. The headline is longer than Bibek needs: retain the hierarchy, shorten the copy.",
+      "application": "Pair a neutral speaking frame with 'WHO IS THE BUYER?' and a title explaining the actual LotusMala exercise.",
+      "avoid": "Do not borrow the ten-minute promise, speed challenge, circuitry, expert positioning, or revenue language.",
+      "review": "Creator post and direct cover image opened; source post confirms the marketing-strategy premise. No thumbnail-specific performance data assessed.",
+      "tags": [
+        "marketing-business",
+        "portrait-question",
+        "clear-promise"
+      ]
+    },
+    {
+      "id": "B1",
+      "direction": "B",
+      "file": "B1-the-futur-ikigai-whiteboard.md",
+      "title": "Find Your Purpose - Ikigai Breakdown (Archive Series)",
+      "creator": "The Futur / Chris Do",
+      "url": "https://thefutur.com/content/find-your-purpose-ikigai-breakdown-archive-series",
+      "preview": "https://img.youtube.com/vi/IXIOW9bFQo0/maxresdefault.jpg",
+      "format": "Video-thumbnail preview: presenter and whiteboard",
+      "lesson": "A real board and a large topic word act as visual evidence of a concrete explanation. The physical artifact gives context without requiring a paragraph of overlay text.",
+      "application": "Keep an authentic 'Buyer Persona' or 'CTA' board detail large; add at most a short 'BUYER → CTA' or '6 STEPS' label.",
+      "avoid": "Do not copy the Ikigai content, diagrams, pointing gesture, expertise claim, or career-outcome promise.",
+      "review": "Official source page opened and indexed thumbnail preview reviewed. Direct YouTube CDN requests were throttled/inaccessible; no full-resolution or 160×90 pixel review claimed.",
+      "tags": [
+        "learning-tech",
+        "whiteboard-framework",
+        "physical-artifact",
+        "marketing-business"
+      ]
+    },
+    {
+      "id": "B2",
+      "direction": "B",
+      "file": "B2-ahrefs-seo-training-course.md",
+      "title": "SEO Course for Beginners",
+      "creator": "Ahrefs / Sam Oh",
+      "url": "https://ahrefs.com/academy/seo-training-course",
+      "preview": "https://frontend-eu.s3.eu-central-1.amazonaws.com/training-l%402x_2abaabb606738abf16a6a34e380b57c1_af7dc719f3429d1968cd9691d31a9807.jpg",
+      "format": "Official course-cover reference, adjacent to YouTube thumbnails",
+      "lesson": "The course is presented with a concrete topic and beginner scope. Its instructor/course presentation is a useful counterpoint to a vague motivational slogan; study simple topic hierarchy, not its brand system.",
+      "application": "Name the actual framework or route from buyer to CTA. Treat six as the documented step count, not a promised result.",
+      "avoid": "Do not imply this is an SEO course, a complete marketing certification, or a proven traffic strategy. Do not copy Ahrefs branding or blue palette automatically.",
+      "review": "Official academy page and its linked cover image opened. Indexed course-page preview also checked. This is an adjacent course-cover reference, not a measured YouTube-thumbnail success example.",
+      "tags": [
+        "marketing-business",
+        "learning-tech",
+        "framework-overview",
+        "course-cover"
+      ]
+    },
+    {
+      "id": "C1",
+      "direction": "C",
+      "file": "C1-skillshare-ali-abdaal-channel-course.md",
+      "title": "How to Start Your YouTube Channel with Ali Abdaal",
+      "creator": "Skillshare / Ali Abdaal (attribution from indexed video preview)",
+      "url": "https://www.youtube.com/watch?v=T9kzTuwS3co",
+      "preview": "https://i.ytimg.com/vi/T9kzTuwS3co/hq720.jpg?rs=AOn4CLD770uCMybVQOu_Z2FN9Xh55jOZZg&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD",
+      "format": "Video-thumbnail preview for a creator-learning course",
+      "lesson": "An ordinary seated presenter, a coherent room and plain topic text communicate a human learning context without artificial emotion. The useful principle is readable subject-plus-context.",
+      "application": "Use Bibek's real speaking portrait with 'MY COURSE PROJECT'; let the title identify the LotusMala marketing plan.",
+      "avoid": "Do not borrow the Skillshare logo, Ali's face/studio, or a 'how to' authority promise when the episode documents Bibek's own exercise.",
+      "review": "Indexed image preview checked twice. Direct video/CDN requests failed or were rate-limited; original upload metadata was not independently fetched. Attribution remains preview-level.",
+      "tags": [
+        "learning-tech",
+        "personal-project",
+        "portrait",
+        "creator-learning"
+      ]
+    },
+    {
+      "id": "C2",
+      "direction": "C",
+      "file": "C2-ali-abdaal-four-principles-learning.md",
+      "title": "Ali Abdaal - The Four Principles Of Learning Anything",
+      "creator": "Ali Abdaal as guest; mirror attributed to Chris Williamson",
+      "url": "https://odysee.com/@ChrisWilliamson:6/ali-abdaal-the-four-principles-of:1",
+      "preview": "https://thumbnails.odycdn.com/card/s%3A1280%3A0/quality%3A85/plain/https%3A%2F%2Fthumbnails.lbry.com%2F38-nreOrVwk",
+      "format": "Learning-video cover preview; provisional secondary/mirror source",
+      "lesson": "A presenter with real books creates tangible learning context. A physical project artifact can make a portrait meaningful; it need not be a dramatic facial reaction.",
+      "application": "Use Bibek's actual whiteboard as the learning artifact, not invented certificates, course dashboards or achievement props.",
+      "avoid": "Do not import the four-principle framework, use books/certificates absent from the footage, or imply proven learning results.",
+      "review": "Direct cover image opened; mirror page timed out and original YouTube upload could not be fetched. Keep as a provisional composition reference, not an authoritative source for rights, channel attribution or performance.",
+      "tags": [
+        "learning-tech",
+        "personal-project",
+        "physical-artifact",
+        "provisional"
+      ]
+    },
+    {
+      "id": "C3",
+      "direction": "C",
+      "file": "C3-the-futur-positioning-course-cover.md",
+      "title": "Positioning & Lead Generation",
+      "creator": "The Futur / Chris Do",
+      "url": "https://thefutur.com/shop/positioning-lead-generation",
+      "preview": "https://cdn.prod.website-files.com/5d816b07d269385f68dbcab0/623a3c82d35e2ab39f01f610_Positioning-Lead-Gen-Thumb-16x9.jpg",
+      "format": "Official course-cover reference; typography-only alternative",
+      "lesson": "A short topic name can carry an educational cover without a face. Study concise hierarchy and deliberate negative space; this is an alternative when no authentic face frame is strong enough.",
+      "application": "If the clean portrait remains weak, favor a genuine board detail plus a short project label instead of generating a new expression.",
+      "avoid": "Do not copy the neon grid, distinctive graphic mark, branding or service-pricing promise. Do not present Bibek as selling this course.",
+      "review": "Official course page opened; indexed cover preview reviewed. Direct asset URL failed. Adjacent course-cover reference only; no conversion or CTR evidence.",
+      "tags": [
+        "marketing-business",
+        "learning-tech",
+        "typography",
+        "course-cover"
+      ]
+    }
+  ]
+}
